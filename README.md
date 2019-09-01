@@ -1,5 +1,5 @@
 # Music Scraper
-Scrapes an Apple Music Playlist from URL. It fetches list of songs from the URL and then downloads them from Youtube using `youtube-dl`
+A tiny utility that scrapes an Apple Music Playlist from URL. It fetches list of songs from the URL and then downloads them from Youtube using `youtube-dl`
 
 # Usage
 `./dowhload.sh`
